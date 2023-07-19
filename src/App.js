@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 import images1 from "./Assets/a1.jpg";
 import images2 from "./Assets/bag2.jpg";
